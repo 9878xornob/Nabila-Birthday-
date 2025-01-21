@@ -1,0 +1,16 @@
+theme: jekyll-theme-primer
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Site settings
+title: "Happy Birthday Nabila"
+description: "A special birthday page for Nabila"
+baseurl: ""
+url: "https://yourusername.github.io/birthday-wish"
